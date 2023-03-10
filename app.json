@@ -6,32 +6,32 @@
   "keywords": ["nodejs", "Bot", "WhatsApp Bot", "WhatsApp Automation", "Multi Device"],
    "env": {
           	"SUDO_NUMBER": {
-			"description": "Add the owner number here",
+			"description": "50763498349",
 			"required": true,
 			"value": "94711421243"
 		    },
 		    "BOT_NAME": {
-			"description": "Change the bot Name here",
+			"description": "Sanwal;",
 			"required": true,
 			"value": "CYBER-X BETA 1.5"
 			},
 			"BOT_NUMBER": {
-			"description": "Change the Bot Number",
+			"description": "64273768991",
 			"required": true,
 			"value": "94778962038"
 			},
 			"STICKERS_NAME": {
-			"description": "Add the Stickers Name",
+			"description": "Sanwal",
 			"required": true,
 			"value": "ᴋɪɴɢ.ᴅᴀʀᴋ ᴀʟᴘʜᴀ"
 			},
 			"OWNER_NAME": {
-			"description": "Add Your Name",
+			"description": "Sanwal
 			"required": true,
 			"value": "ᴅᴀʀᴋ ᴀʟᴘʜᴀ"
 			},
 			"FOOTER": {
-			"description": "Add Your Button Massage's Footer",
+			"description": "Cyber
 			"required": true,
 			"value": "ᴄʏʙᴇʀ-x ʙᴇᴛᴀ ʀᴇʟᴇᴀꜱᴇ"
 			},
@@ -46,7 +46,7 @@
 			"value": "Hellow I'm Alive"
 			},
 			"MENU_IMAGE": {
-			"description": "Add Your Name",
+			"description": "Baloch",
 			"required": true,
 			"value": "https://telegra.ph/file/bd50f0727084519bf78e9.jpg"
 			},
@@ -86,7 +86,7 @@
 			"value": "true"
 			},
 			"DEPLOYER_NAME": {
-			"description": "Add Your Name",
+			"description": "Shehzada KIng",
 			"required": true,
 			"value": "DARK ALPHA"
 			},
